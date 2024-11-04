@@ -18,7 +18,8 @@
   - Firewalls, WAF, VPNs, SIEM
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatotalitabielecky@gmail.com)
+Você pode me contatar pelo e-mail: contatotalitabielecky@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/talitabielecky1/)
 
 
