@@ -10,8 +10,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Skills and Technologies
 - 🛠️ **Languages & Technologies:** 
-  - JavaScript, Python, C#, HTML, CSS
-  - React, Node.js, SQL, MongoDB, Java
+  - JavaScript, Python, HTML, CSS
+  - React, Node.js, SQL
 - 🔒 **Cybersecurity Tools:** 
   - Kali Linux, Metasploit, Burp Suite, sqlmap, Hydra
 - 🌐 **Networking Concepts:** 
